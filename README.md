@@ -135,7 +135,7 @@ Fetch or Create (Avoid Duplicate Course)
 Click here to watch the demo video
 
 
-https://github.com/user-attachments/assets/ff747f33-488b-4d94-91bb-2176a98a9e1e
+https://github.com/user-attachments/assets/b040c81e-1ff1-4394-827c-e8a7f52ffda2
 
 
 
